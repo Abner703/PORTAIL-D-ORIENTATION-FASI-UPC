@@ -1,0 +1,8 @@
+{
+  "name": "Portail d'Orientation FASI - UPC",
+  "description": "Portail officiel d'orientation, d'admission et de découverte des programmes de la Faculté des Sciences Informatiques (FASI) de l'Université Protestante au Congo (UPC, Kinshasa).",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
